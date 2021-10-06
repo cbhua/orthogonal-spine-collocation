@@ -40,21 +40,21 @@ Python Package: numpy, matplotlib, jupyter-notebook/jupyter-lab
 
 ## 📈 Examples
 
-**One variable, linear, 3 order: **`Loss: <1e-4`
+**One variable, linear, 3 order** `Loss: <1e-4`
 
 <img src="fig/case1-result.jpg" width="80%">
 
-**One variable, linear, 4 order: **`Loss: 2.2586`
+**One variable, linear, 4 order** `Loss: 2.2586`
 
 <img src="fig/case2-result.jpg" width="80%">
 
-**One variable, nonlinear: **`Loss: 0.0447`
+**One variable, nonlinear** `Loss: 0.0447`
 
 <img src="fig/case3-result.jpg" width="80%">
 
 ## 📜 Algorithm
 
-Here we are going to simply introduce how 1D OSC works by example. Original pdf please refer to Introduction.pdf in this repository. 
+Here we are going to simply introduce how 1D OSC works by example. Original pdf please refer to `Introduction.pdf` in this repository. 
 
 <img src="fig/doc1.jpg" width="100%">
 
